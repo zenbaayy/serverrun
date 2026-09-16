@@ -20,19 +20,22 @@ This repository documents the step-by-step process of creating a basic Node.js w
 **Explanation:** I ran `npm init -y` to automatically generate a package.json file, which manages the project's configuration and dependencies.
 
 ### 4. Create Server File (server.js)
-<img width="921" height="221" alt="image" src="https://github.com/user-attachments/assets/ed9a379b-8b3b-433d-85b8-757e0c133762" />
+
+
 
 **Explanation:** I created a file called server.js and wrote the server logic using Node's built-in `http` module. The server listens on port 3000 and responds with an "Hello Javascript" heading.
 
 ### 5. Start the Server
+<img width="921" height="221" alt="image" src="https://github.com/user-attachments/assets/ed9a379b-8b3b-433d-85b8-757e0c133762" />
 **Explanation:** I ran `node server.js` in the terminal, and the success message confirmed the server started correctly without errors.
 
 ### 6. Test in Browser
-<img width="957" height="299" alt="image" src="https://github.com/user-attachments/assets/98aa06ce-2eba-4902-b207-083d32917f71" />
+<img width="795" height="342" alt="Image" src="https://github.com/user-attachments/assets/1dd0bbf7-ee29-4a10-9a0d-a318263a637c" />
 
 **Explanation:** I opened a browser and navigated to http://localhost:3000, where the page displayed "Hello Javascript," confirming the server was working as expected.
 
 ### 7. Stopping the Server
+<img width="957" height="299" alt="image" src="https://github.com/user-attachments/assets/98aa06ce-2eba-4902-b207-083d32917f71" />
 **Explanation:** Once testing was complete, I returned to the terminal and pressed Ctrl+C to stop the server and close the connection.
 
 ## Files
